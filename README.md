@@ -3,12 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Felices 3 Meses, Mi Cielo</title>
+    <title> Felices 3 Meses, Mi Cielo </title>
     <style>
         body {
             font-family: Arial, sans-serif;
-            background-color: #fce4ec;
-            color: #880e4f;
+            background-color: #DBB7F3 ;
+            color: #391848;
             margin: 0;
             padding: 0;
             display: flex;
@@ -72,13 +72,13 @@
         <h2>¿Me amas?</h2>
         <div class="buttons">
             <button onclick="showRomanticPage()">Sí</button>
-            <button disabled>No</button>
+            <button disabled> No </button>
         </div>
     </div>
 
     <div class="content hidden">
         <div class="header">
-            <h1>Feliz Tercer Mes, Genesis</h1>
+            <h1> Feliz Tercer Mes, Génesis </h1>
             <p>Cada día contigo es un regalo</p>
         </div>
         <div class="message-text">
