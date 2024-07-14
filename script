@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Feliz Tercer Mes, Genesis</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #fce4ec;
+            color: #880e4f;
+            margin: 0;
+            padding: 0;
+        }
+        .header {
+            text-align: center;
+            padding: 50px;
+            background-color: #f8bbd0;
+        }
+        .header h1 {
+            margin: 0;
+            font-size: 3em;
+        }
+        .header p {
+            font-size: 1.5em;
+        }
+        .content {
+            margin: 20px;
+            text-align: center;
+        }
+        .photo-gallery {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+        .photo-gallery img {
+            margin: 10px;
+            width: 200px;
+            height: 200px;
+            object-fit: cover;
+            border-radius: 10px;
+        }
+        .message {
+            font-size: 1.2em;
+            margin: 20px auto;
+            max-width: 600px;
+            line-height: 1.6em;
+        }
+        .footer {
+            text-align: center;
+            padding: 20px;
+            background-color: #f8bbd0;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>Feliz Tercer Mes, Genesis</h1>
+        <p>Cada día contigo es un regalo</p>
+    </div>
+    <div class="content">
+        <div class="message">
+            <p>Eres la persona más especial para mi, eres mi persona favorita. Estos tres meses han sido los más maravillosos de mi vida, y no puedo esperar para ver lo que nos depara el futuro. Ame tanto irte a ver, es nuestra primer foto solo de las 2, mi foto favorita con mi persona favorita, hay una cartita tmb que hice para ti, vita mia.</p>
+        </div>
+        <div class="photo-gallery">
+            <img src="""C:\Users\Admin2022\Downloads\449411175_496757002787787_5888737376841214261_n.jpg" alt="My favorite photo">
+            <img src=""""C:\Users\Admin2022\Downloads\loveee.jpeg"" alt="For my love">
+        </div>
+        <div class="message">
+            <p>Te amo con todo mi corazón, Genesis. Eres mi inspiración, mi amor eterno y mi todo. Feliz tercer mes, mi vida hermosa.</p>
+        </div>
+    </div>
+    <div class="footer">
+        <p>Con amor, Dayanna</p>
+    </div>
+</body>
+</html>
